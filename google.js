@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GoogleDrive Download anyway
 // @namespace    https://konayuki.moe/
-// @version      0.1
+// @version      0.0.2
 // @description  Skip GoogleDrive can't scan this file for viruses
 // @author       Proflylab
 // @icon         https://avatars1.githubusercontent.com/u/27909158?s=460&v=4
